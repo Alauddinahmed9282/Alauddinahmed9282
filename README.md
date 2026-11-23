@@ -2,7 +2,7 @@
 
 # Md Alauddin
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=520&lines=Senior+Mobile+Engineer;Flutter+%26+React+Native;Offline-first+apps+with+1M%2B+downloads;Building+cozy+games+on+the+side" alt="Senior Mobile Engineer · Flutter & React Native" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=520&lines=Senior+Mobile+Engineer;Flutter+%26+React+Native;Offline-first+apps+with+1M%2B+downloads;Clean+architecture+%C2%B7+smooth+UI" alt="Senior Mobile Engineer · Flutter & React Native" />
 
 Building fast, offline-first mobile apps used by real people every day.
 
@@ -15,9 +15,9 @@ Building fast, offline-first mobile apps used by real people every day.
 
 ## At a glance
 
-| 📱 **6+ years** | 🚀 **1M+ downloads** | 🧩 **25+ feature modules** | 🔥 **2,300+ contributions** |
-|:---:|:---:|:---:|:---:|
-| production mobile apps | on shipped apps | in one Flutter app | on GitHub, private work included |
+| 📱 **6+ years** | 🚀 **1M+ downloads** | 🧩 **25+ feature modules** | 🔥 **3,700+ contributions** | 📦 **2,600+ npm installs** |
+|:---:|:---:|:---:|:---:|:---:|
+| production mobile apps | on shipped apps | in one Flutter app | across both GitHub accounts | of my open-source packages |
 
 ## About me
 
@@ -36,10 +36,6 @@ A complete Islamic companion app, rebuilt from React Native to Flutter for speed
 - **Offline-first:** local SQLite database with background sync, so the app works without internet
 - **Tech:** Flutter · Riverpod · GoRouter · Dio · sqflite · Firebase · local notifications · Google Maps
 - Prayer-time notifications, mosque finder, in-app updates and multi-language support
-
-### 🎮 Side projects
-
-Cozy idle games and small utility apps built with Flutter, published on Google Play.
 
 ## Tech stack
 
@@ -89,21 +85,34 @@ Cozy idle games and small utility apps built with Flutter, published on Google P
 
 ## Open source
 
-Earlier work and npm packages live on my previous profile **[@itsaladin](https://github.com/itsaladin)**:
+Earlier work and npm packages live on my previous profile **[@itsaladin](https://github.com/itsaladin)** (2018 – 2024): **1,450+ contributions** across **48 public repositories**.
 
-- [react-native-multiple-select-pro](https://github.com/itsaladin/react-native-multiple-select-pro): multi-select with search
-- [react-native-fancy-table](https://github.com/itsaladin/react-native-fancy-table): table component for React Native
-- [react-native-mega-menu](https://github.com/itsaladin/react-native-mega-menu)
+| Package | What it does | npm |
+|---|---|---|
+| [react-native-multiple-select-pro](https://github.com/itsaladin/react-native-multiple-select-pro) | Multi-select with search | [![npm](https://img.shields.io/npm/dt/react-native-multiple-select-pro?style=flat-square&color=CB3837&label=downloads)](https://www.npmjs.com/package/react-native-multiple-select-pro) |
+| [react-native-fancy-table](https://github.com/itsaladin/react-native-fancy-table) | Table component for React Native | [![npm](https://img.shields.io/npm/dt/react-native-fancy-table?style=flat-square&color=CB3837&label=downloads)](https://www.npmjs.com/package/react-native-fancy-table) |
+| [react-native-mega-menu](https://github.com/itsaladin/react-native-mega-menu) | Mega menu for React Native | – |
 
 ## GitHub activity
 
 Most of my day-to-day work lives in private repositories; these cards count it.
+
+**This account**
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Alauddinahmed9282&theme=github-dark-blue&hide_border=true&background=0D1117" />
   <img src="https://streak-stats.demolab.com?user=Alauddinahmed9282&hide_border=true" alt="Contribution streak" />
+</picture>
+
+<br/><br/>
+
+**Previous account ([@itsaladin](https://github.com/itsaladin))**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=itsaladin&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=itsaladin&hide_border=true" alt="Contribution streak, previous account" />
 </picture>
 
 <br/><br/>
