@@ -39,12 +39,12 @@ Cozy idle games and small utility apps built with Flutter, published on Google P
 
 ## Tech stack
 
-**Mobile:** Flutter, Dart, React Native, Kotlin (basics)
-**State & architecture:** Riverpod, Redux, feature-based clean architecture
-**Data:** REST APIs, Firebase, SQLite, offline sync
-**Web:** React.js, Next.js, Node.js, TypeScript
-**Payments:** Stripe, SSLCommerz
-**Tools:** Git, Android Studio, Xcode, Play Console
+- **Mobile:** Flutter, Dart, React Native, Kotlin (basics)
+- **State & architecture:** Riverpod, Redux, feature-based clean architecture
+- **Data:** REST APIs, Firebase, SQLite, offline sync
+- **Web:** React.js, Next.js, Node.js, TypeScript
+- **Payments:** Stripe, SSLCommerz
+- **Tools:** Git, Android Studio, Xcode, Play Console
 
 ## Experience
 
