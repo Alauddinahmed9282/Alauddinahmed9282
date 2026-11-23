@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/profile.jpg" width="160" style="border-radius:50%" alt="Md Alauddin" />
-
 # Md Alauddin
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=0A66C2&center=true&vCenter=true&width=520&lines=Senior+Mobile+Engineer;Flutter+%26+React+Native;Offline-first+apps+with+1M%2B+downloads;Building+cozy+games+on+the+side" alt="Senior Mobile Engineer · Flutter & React Native" />
